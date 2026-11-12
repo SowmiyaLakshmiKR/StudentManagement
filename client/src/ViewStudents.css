@@ -1,0 +1,29 @@
+
+.students-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 25px;
+}
+
+.students-container h1 {
+  text-align: center;
+  color: #2563eb;
+  margin-bottom: 25px;
+}
+
+.student-card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 18px;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.student-card h3 {
+  color: #2563eb;
+  margin-bottom: 12px;
+}
+
+.student-card p {
+  margin: 10px 0;
+}
